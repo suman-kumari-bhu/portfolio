@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6e7f7175.css",
-    "main.js": "/portfolio/static/js/main.c0abb973.js",
-    "static/media/PhD_2021.png": "/portfolio/static/media/PhD_2021.c46935f62b6f8ccf6b4a.png",
-    "static/media/Sydney_2017.jpeg": "/portfolio/static/media/Sydney_2017.e24904f36ffa148b2942.jpeg",
+    "main.css": "/portfolio/static/css/main.d4084261.css",
+    "main.js": "/portfolio/static/js/main.d83d7b23.js",
     "static/media/background.jpeg": "/portfolio/static/media/background.c4a1981a2998aaf667f8.jpeg",
-    "static/media/MPI_2025.jpeg": "/portfolio/static/media/MPI_2025.9941108032259b87816a.jpeg",
     "static/media/profile.png": "/portfolio/static/media/profile.3d78b6be5ad0ceb0b09a.png",
-    "static/media/APS_2023.jpeg": "/portfolio/static/media/APS_2023.6f2f5d8581198f5a931b.jpeg",
-    "static/media/Vienna_2021.jpeg": "/portfolio/static/media/Vienna_2021.11c5812c74036ecb64d0.jpeg",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.e521956684f5241fa7ae.pdf",
     "index.html": "/portfolio/index.html",
-    "main.6e7f7175.css.map": "/portfolio/static/css/main.6e7f7175.css.map",
-    "main.c0abb973.js.map": "/portfolio/static/js/main.c0abb973.js.map"
+    "main.d4084261.css.map": "/portfolio/static/css/main.d4084261.css.map",
+    "main.d83d7b23.js.map": "/portfolio/static/js/main.d83d7b23.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7f7175.css",
-    "static/js/main.c0abb973.js"
+    "static/css/main.d4084261.css",
+    "static/js/main.d83d7b23.js"
   ]
 }
